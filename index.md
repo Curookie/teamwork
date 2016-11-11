@@ -1,1 +1,1 @@
-<font color='blue'>Hello
+<font style='color:#0000ff'>Hello</font>
